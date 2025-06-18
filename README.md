@@ -1,6 +1,6 @@
 # NV-LG4-DD-samples
 
-## Code used in the paper:
+Code used in the paper:
 High-Field Microscale NMR Spectroscopy with NV Centers in Dipolarly-Coupled Samples 
 Carlos Munuera, Ander Tobalina, and Jorge Casanova
 arXiv:2405.12857 (2024)
